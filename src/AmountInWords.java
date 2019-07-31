@@ -403,7 +403,6 @@ Long amount1 = amount;
 
     private AmountInWords() {
     }
-
     private static final String ONE_UAH_INTEGER = "гривня";
     private static final String TWO_UAH_INTEGER = "гривні";
     private static final String FIVE_UAH_INTEGER = "гривень";
@@ -520,5 +519,4 @@ Long amount1 = amount;
     private static final String THOUSAND_ENG_TWO = "thousands";
     private static final String MILLION_ENG_TWO = "millions";
     private static final String BILLION_ENG_TWO = "billions";
-
 }
