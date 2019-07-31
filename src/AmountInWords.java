@@ -417,7 +417,7 @@ Long amount1 = amount;
 
 
     private static final String WORD_100 = "сто";
-    private static final String WORD_200 = "двіст";
+    private static final String WORD_200 = "двісті";
     private static final String WORD_300 = "триста";
     private static final String WORD_400 = "чотириста";
     private static final String WORD_500 = "п'ятсот";
