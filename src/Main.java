@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        
         boolean theEndProgram = false;
 
         while (!theEndProgram) {
@@ -27,10 +28,7 @@ public class Main {
                 }
                 else { System.out.println("You wrote wrong value. Please try again"); }
                 }
-
             }else System.out.println("Incorrect command. Please try again");
-
-
         }
     }
 
@@ -40,7 +38,4 @@ public class Main {
         value = scanner.nextLine();
         return value;
     }
-
-
-
 }
